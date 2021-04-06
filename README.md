@@ -1,5 +1,5 @@
 # Selenium_Live_project
-7-day live project participation, to develop Automated test-cases.
+live project participation, to develop Automated test-cases.
 
 Day 1:
 
