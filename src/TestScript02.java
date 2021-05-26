@@ -16,7 +16,7 @@ import org.openqa.selenium.firefox.FirefoxProfile;
 
 public class TestScript02 {
 
-	static WebDriver driver; // Selenium control driver
+    static WebDriver driver; // Selenium control driver
     private static String baseUrl; // baseUrl of Website Guru99
     
     // This method SetUp will read initialization parameters from the class Util.java & launch Firefox 
