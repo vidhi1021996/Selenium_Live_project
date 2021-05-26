@@ -12,7 +12,7 @@ public class TestScript01 {
 
     public static void main(String[] args) throws Exception {	  
 	
-    	//Setup Chrome driver    	
+    	//Setup Firefox driver    	
        	WebDriver driver = new FirefoxDriver();
     	String baseUrl = "http://www.demo.guru99.com/V4/";
     	
